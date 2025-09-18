@@ -5,8 +5,12 @@ An intelligent desktop tool for detecting and analyzing color gradients in your 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg) ![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
 
 ---
+<img width="1157" height="734" alt="Screenshot 2025-09-18 at 10 13 39 AM" src="https://github.com/user-attachments/assets/1a904aef-ba71-42ac-b49e-c89dcf06c583" />
+<img width="1007" height="703" alt="Screenshot 2025-09-18 at 10 12 50 AM" src="https://github.com/user-attachments/assets/0438599c-9700-456e-bb71-f9a1ccb5f5f6" />
+<img width="1198" height="595" alt="Screenshot 2025-09-18 at 10 12 35 AM" src="https://github.com/user-attachments/assets/645f0775-ee0f-421f-97d0-8de4dd563684" />
+<img width="845" height="593" alt="Screenshot 2025-09-18 at 10 12 01 AM" src="https://github.com/user-attachments/assets/bf35f1fd-95fe-4153-bd7b-b33495650bf8" />
 
-[Screenshot of the application in action]
+
 
 ## What is Gradient Analyzer?
 
