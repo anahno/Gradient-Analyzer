@@ -2,7 +2,8 @@
 
 An intelligent desktop tool for detecting and analyzing color gradients in your images.
 
-![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg) ![Version]([https://img.shields.io/badge/Version-1.0-brightgreen.svg](https://github.com/anahno/Gradient-Analyzer/releases/tag/v1.0.0))
+![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)
+download:https://github.com/anahno/Gradient-Analyzer/releases/tag/v1.0.0
 
 ---
 <img width="1157" height="734" alt="Screenshot 2025-09-18 at 10 13 39 AM" src="https://github.com/user-attachments/assets/1a904aef-ba71-42ac-b49e-c89dcf06c583" />
